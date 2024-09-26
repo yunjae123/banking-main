@@ -114,7 +114,7 @@ Replace the placeholder values with your actual respective account credentials. 
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+Open [https://banking-main-rho.vercel.app/sign-in](https://banking-main-rho.vercel.app/sign-in) in your browser to view the project.
 
 **You can sign up using made-up information. When connecting a bank, you can use the given sandbox account.**
 
