@@ -118,13 +118,13 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 **You can sign up using made-up information. When connecting a bank, you can use the given sandbox account.**
 
-- Username:user_good
+- Username: user_good
 
-- Password:pass_good
+- Password: pass_good
 
 
 **If you want to sign-in with a user already in the database, you can use the following:**
 
 - Email: testing@test.com
   
-- Password:123123123
+- Password: 123123123
